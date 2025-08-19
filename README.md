@@ -1,4 +1,4 @@
-# 🔐 Smart Door Lock System with Keypad, LCD, Servo, and Ultrasonic Sensor
+# 🔐 Smart Locker
 
 ## 📖 Overview
 This project implements a **Smart Door Lock System** using Arduino.  
